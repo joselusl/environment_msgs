@@ -32,9 +32,11 @@ add_message_files(
     DIRECTORY
         msg
     FILES
+        Object2d.msg
         Ellipse.msg
         Rectangle.msg
-        Objects2D.msg
+        Object2dArray.msg
+        
 )
 
 
