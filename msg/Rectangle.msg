@@ -7,6 +7,6 @@ environment_msgs/Object2d common
 geometry_msgs/Pose pose_center
 
 # Geometry of the object
-std_msgs/Float64 size_x
-std_msgs/Float64 size_y
+float64 size_x
+float64 size_y
 
