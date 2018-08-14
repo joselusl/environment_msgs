@@ -33,4 +33,4 @@ script:
   - /tmp/catkin/bin/catkin_test_results $JOB_PATH/catkin_workspace/test_results --all
 notifications:
   email:
-    - joseluis.sanlopgmail.com
+    - joseluis.sanlop@gmail.com
